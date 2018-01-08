@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProxyStudy/ProxyStudy.iml" filepath="$PROJECT_DIR$/ProxyStudy/ProxyStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectStudy.iml" filepath="$PROJECT_DIR$/ReflectStudy.iml" />
+    </modules>
+  </component>
+</project>
